@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.40949766.css",
+    "main.js": "./static/js/main.22ece815.js",
+    "static/media/Inter-ExtraBold.ttf": "./static/media/Inter-ExtraBold.e4a4cb7133001f282a15.ttf",
+    "static/media/Inter-Black.ttf": "./static/media/Inter-Black.143c28420846d45c5834.ttf",
+    "static/media/Inter-Bold.ttf": "./static/media/Inter-Bold.88fa7ae373b07b41ecce.ttf",
+    "static/media/Inter-SemiBold.ttf": "./static/media/Inter-SemiBold.4d56bb21f2399db8ad48.ttf",
+    "static/media/Inter-Medium.ttf": "./static/media/Inter-Medium.6dcbc9bed1ec438907ee.ttf",
+    "static/media/Inter-ExtraLight.ttf": "./static/media/Inter-ExtraLight.1815b9a8a67debdb3966.ttf",
+    "static/media/Inter-Thin.ttf": "./static/media/Inter-Thin.f341ca512063c66296d1.ttf",
+    "static/media/Inter-Light.ttf": "./static/media/Inter-Light.eec8664621fec98efb37.ttf",
+    "static/media/Inter-Regular.ttf": "./static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "static/media/Kick.mp3": "./static/media/Kick.72881f4bf80d341da208.mp3",
+    "static/media/Heater.mp3": "./static/media/Heater.cb8d95b6caf027812d3b.mp3",
+    "static/media/Heater-two.mp3": "./static/media/Heater-two.4ed25e5b07da91b794d7.mp3",
+    "static/media/Heater-three.mp3": "./static/media/Heater-three.4c4d3fd017dfed721765.mp3",
+    "static/media/Heater-four.mp3": "./static/media/Heater-four.0c29815eb40bbe7d4d7b.mp3",
+    "static/media/Hi-Hat.mp3": "./static/media/Hi-Hat.5f33c02936f6ec6f8199.mp3",
+    "static/media/Clap.mp3": "./static/media/Clap.faf5d12a1a4a7ffacf09.mp3",
+    "static/media/Kick-n-hat.mp3": "./static/media/Kick-n-hat.6dc44dc15fca60d9d594.mp3",
+    "static/media/Closed-HiHat.mp3": "./static/media/Closed-HiHat.0b159bd307a31937b138.mp3",
+    "index.html": "./index.html",
+    "main.40949766.css.map": "./static/css/main.40949766.css.map",
+    "main.22ece815.js.map": "./static/js/main.22ece815.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40949766.css",
+    "static/js/main.22ece815.js"
+  ]
+}

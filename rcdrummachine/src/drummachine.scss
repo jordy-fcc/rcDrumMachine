@@ -1,0 +1,77 @@
+// Imports
+@import "reset.scss";
+@import "fonts.scss";
+@import "vars.scss";
+
+.backgroundWrapper {
+    min-width: 100vw;
+    min-height: 100vh;
+    overflow: hidden;
+}
+
+.flexWrapper {
+    width: 100%;
+    overflow: hidden;
+    height: calc(100vh - 4.5px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#drum-machine {
+    border: 2px solid $black-one;
+    width: 70vw;
+    height: 40vh;
+    flex-direction: column;
+}
+
+#display {
+    background-color: $main-col;
+    color: $black-three;
+    width: 100%;
+    height: 20%;
+    font-family: $regular;
+    font-size: 2vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: left;
+}
+
+.nowPlaying {
+    margin-left: 3%;
+}
+
+.play {
+    font-family: $extra-bold;
+    margin-left: 15px;
+}
+
+#buttons {
+    overflow: hidden;
+    width: 100%;
+    height: 80%;
+}
+
+button {
+    height: 100%;
+    width: 33.33%;
+    font-family: $bold;
+    font-size: 3vh;
+    background-color: $black-three;
+    color: $white-four;
+}
+
+button:active {
+    background-color: $main-col;
+    color: $black-three;
+}
+
+.press {
+    background-color: $main-col;
+    color: $black-three;
+}
+
+.row {
+    height: 33.33%;
+}
